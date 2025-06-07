@@ -18,3 +18,4 @@ public class CorsConfig implements WebMvcConfigurer {
                 .allowCredentials(true);  // Permette l'invio di credenziali (ad esempio, i cookie o l'autenticazione)
     }
 }
+//
